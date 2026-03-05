@@ -1,26 +1,41 @@
-# 🚀 HackerRank Solutions
+# HackerRank Solutions
 
-> A comprehensive collection of **Data Structures** and **Algorithms** solutions from HackerRank, implemented in multiple programming languages.
+Welcome to my HackerRank solutions repository! Here you will find solutions to various HackerRank problems I've solved. Feel free to explore the code, learn, and improve your own coding skills!
 
-[![HackerRank Profile](https://img.shields.io/badge/HackerRank%20Profile-@gokulsaravanakk1-brightgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/gokulsaravanakk1)
-[![Repository Stars](https://img.shields.io/github/stars/gokulsaravanakkumar/hackerrank?style=flat-square)](https://github.com/gokulsaravanakkumar/hackerrank)
-[![Last Commit](https://img.shields.io/github/last-commit/gokulsaravanakkumar/hackerrank?style=flat-square)](https://github.com/gokulsaravanakkumar/hackerrank)
+## Profile Links
+- [HackerRank Profile](https://www.hackerrank.com/gokulsaravanakkumar)
+- [GitHub Profile](https://github.com/gokulsaravanakkumar)
 
----
+## Languages Used
+My solutions are mainly written in:
+- Python
+- Java
+- C++
+- JavaScript
 
-## 📋 Overview
+## Problem Categories
+I have solved problems from the following categories:
+- Algorithms
+  - Sorting
+  - Dynamic Programming
+  - Greedy Algorithms
+  - Graph Theory
+- Data Structures
+  - Arrays
+  - Linked Lists
+  - Trees
+  - Hash Tables
 
-This repository contains solutions to various **HackerRank** challenges focusing on:
-- ✅ **Data Structures** (Arrays, Linked Lists, Stacks, Queues, Trees, Graphs)
-- ✅ **Algorithms** (Sorting, Searching, Dynamic Programming, Greedy, Recursion)
-- ✅ **Problem-Solving** techniques and best practices
+## Usage Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gokulsaravanakkumar/hackerrank.git
+   ```
+2. Navigate to the problem category you want to explore:
+   ```bash
+   cd hackerrank/Algorithms
+   ```
+3. Open the solution file in your preferred IDE or text editor.
+4. Compile and run the code to test the solution.
 
-## 🛠️ Languages Used
-
-| Language | Purpose |
-|----------|---------|
-| **Java** | Main implementation language |
-| **Python** | Quick prototyping & alternative solutions |
-| **C** | Performance-critical solutions |
-
-## 📂 Repository Structure
+Feel free to contribute by submitting a pull request or opening an issue for any improvements or suggestions! Happy coding!
