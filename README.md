@@ -26,16 +26,3 @@ I have solved problems from the following categories:
   - Trees
   - Hash Tables
 
-## Usage Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gokulsaravanakkumar/hackerrank.git
-   ```
-2. Navigate to the problem category you want to explore:
-   ```bash
-   cd hackerrank/Algorithms
-   ```
-3. Open the solution file in your preferred IDE or text editor.
-4. Compile and run the code to test the solution.
-
-Feel free to contribute by submitting a pull request or opening an issue for any improvements or suggestions! Happy coding!
