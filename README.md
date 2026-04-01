@@ -3,7 +3,7 @@
 Welcome to my HackerRank solutions repository! Here you will find solutions to various HackerRank problems I've solved. Feel free to explore the code, learn, and improve your own coding skills!
 
 ## Profile Links
-- [HackerRank Profile](https://www.hackerrank.com/gokulsaravanakkumar)
+- [HackerRank Profile](https://www.hackerrank.com/profile/gokulsaravanakk1)
 - [GitHub Profile](https://github.com/gokulsaravanakkumar)
 
 ## Languages Used
